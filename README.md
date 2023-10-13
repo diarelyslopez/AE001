@@ -1,1 +1,1 @@
-# AE001
+# lab-agile-planning
